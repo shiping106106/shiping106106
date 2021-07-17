@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shiping Song
 - 👀 I’m interested in chess, mma, bouldering, marathon running, stocks
 - 🌱 I’m currently learning data science
-- 📫 How to reach me shipng106106@gmail.com
+- 📫 How to reach me shiping106106@gmail.com
 
 
 <!---
